@@ -1,14 +1,8 @@
-print("Welcome to The Password Generator by Jack McLean ")
-print(" The Password Generator by Jack McLean Version 1.0 ")
+print("Welcome to The Password Generator by")
+print(" The Password Generator by Version 1.0 ")
 print("***************************************************")
-print("What is your firstname?")
-firstname = input()
-print("what is your surname ")
-surname = input()
 
-print("Hello,", firstname,surname)
-
-print("welcome to password Generator Made by Jack McLean ")
+print("welcome to password Generator")
 print("*****************************")
 
 import random
@@ -41,6 +35,6 @@ password = input("enter your password : ")
 password =input
 print("Password correct ")
 
-print("Thankyou for using The Password Generator by Jack McLean Version 1.0 ")
+print("Thankyou for using The Password Generator Version 1.0 ")
 
 
